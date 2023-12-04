@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is 葉冠恒
 #### I am a first year student majoring in computer science
-![I am a first year student majoring in computer science](https://twitter.com/Orbil_/header_photo)
+![I am a first year student majoring in computer science]([https://twitter.com/Orbil_/header_photo](https://pbs.twimg.com/profile_banners/1543571959950503937/1701683658/1500x500))
 
 I am a high school graduate who has an interest in the IT field, experienced in creating websites and programs
 
